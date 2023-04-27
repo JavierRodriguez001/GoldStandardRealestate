@@ -1,6 +1,7 @@
 # GoldStandardRealEstate
 
 GoldStandardRealEstate is a full-stack real estate platform built using the MERN stack (MongoDB, Express, React, and Node.js). The platform allows users to browse real estate properties on the market and interact with realtors through a live chat feature powered by Socket.io. It includes separate dashboards for users and realtors, with additional functionality for realtors to manage their listings and track sales.
+<img width="1680" alt="Screen Shot 2023-04-12 at 11 48 39 AM" src="https://user-images.githubusercontent.com/120400424/234964046-5f78418c-d629-4455-a235-925b83f976f2.png">
 
 ## Features
 - Property browsing with filtering and sorting options
@@ -8,6 +9,7 @@ GoldStandardRealEstate is a full-stack real estate platform built using the MERN
 - User dashboard for browsing and saving properties
 - Realtor dashboard for managing listings and tracking sales
 - Live chat feature using Socket.io for real-time communication between users and realtors
+<img width="1680" alt="Screen Shot 2023-04-12 at 11 49 34 AM" src="https://user-images.githubusercontent.com/120400424/234963775-0c601e38-bd75-4f67-9ea8-a614ee5fb3e2.png">
 
 
 
@@ -29,3 +31,11 @@ Ensure that you have the following installed on your local machine:
 - Node.js (v14.x.x or later)
 - npm (v6.x.x or later)
 - MongoDB (v4.x.x or later)
+<img width="1680" alt="Screen Shot 2023-04-12 at 11 48 04 AM" src="https://user-images.githubusercontent.com/120400424/234964123-b78e92f7-3723-4692-bcfa-bebdf93ac097.png">
+
+<img width="1680" alt="Screen Shot 2023-04-12 at 11 48 16 AM" src="https://user-images.githubusercontent.<img width="1680" alt="Screen Shot 2023-04-12 at 11 47 58 AM" src="https://user-images.githubusercontent.com/120400424/234964262-23432a24-b24c-4a25-a39e-3c53eb2f9090.png">
+
+<img width="1680" alt="Screen Shot 2023-04-12 at 11 48 55 AM" src="https://user-images.githubusercontent.com/120400424/234964514-98c7b4d3-2664-4806-942e-8d42ffb13eb0.png">
+
+
+
