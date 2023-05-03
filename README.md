@@ -1,6 +1,6 @@
-# GoldStandardRealEstate
+# GoldStandardEstate
 
-GoldStandardRealEstate is a full-stack real estate platform built using the MERN stack (MongoDB, Express, React, and Node.js). The platform allows users to browse real estate properties on the market and interact with realtors through a live chat feature powered by Socket.io. It includes separate dashboards for users and realtors, with additional functionality for realtors to manage their listings and track sales.
+GoldStandardEstate is a full-stack real estate platform built using the MERN stack (MongoDB, Express, React, and Node.js). The platform allows users to browse real estate properties on the market and interact with realtors through a live chat feature powered by Socket.io. It includes separate dashboards for users and realtors, with additional functionality for realtors to manage their listings and track sales.
 <img width="1680" alt="Screen Shot 2023-04-12 at 11 48 39 AM" src="https://user-images.githubusercontent.com/120400424/234964046-5f78418c-d629-4455-a235-925b83f976f2.png">
 
 ## Features
@@ -14,7 +14,7 @@ GoldStandardRealEstate is a full-stack real estate platform built using the MERN
 
 
 ## Technologies Used
-GoldStandardRealEstate is built using the following technologies:
+GoldStandardEstate is built using the following technologies:
 
 - MongoDB: A NoSQL database used for storing the application's data, including user information, property listings, and chat messages.
 - Express: A minimal and flexible Node.js web application framework used for handling the back-end API routes and middleware.
